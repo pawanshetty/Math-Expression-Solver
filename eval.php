@@ -4,7 +4,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Math Expression Test for IMPLEMENT Healthcare IT</title>
+    <title>Math Expression Test</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The math expression test done in PHP and twitter bootstrap">
     <meta name="author" content="Pawan Shetty">
@@ -55,7 +55,7 @@
          echo $expr." = ".$result;
          ?>
          </h1>
- <p style="margin-top:20px">Solution for the test problem given by ImplementhIT</p>
+ <p style="margin-top:20px">Solution </p>
            
   </p>
 </div>
