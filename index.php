@@ -1,14 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Math Expression Test for IMPLEMENT Healthcare IT</title>
+    <title>Math Expression Test </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The math expression test done in PHP and twitter bootstrap">
     <meta name="author" content="Pawan Shetty">
 
-    <!-- Used all the frontend materials of twitter bootstrap including the jquery implementation -->
+    <!-- Used all the frontend materials of twitter bootstrap including the jquery Implemenntation -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <style>
       body {
@@ -62,7 +61,7 @@
 </div>
    <div class="hero-unit">
          <h1>Math Expression Evaluator</h1>
-          <p style="margin-top:10px">Solution for the test problem given by ImplementhIT</p>
+          <p style="margin-top:10px">Solution </p>
             <p>
              <a  style="margin-top:10px" data-toggle="modal" href="#myModal" class="btn btn-large btn-block btn-primary">
               Evaluate
