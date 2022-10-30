@@ -1,1 +1,1 @@
-A Code to evaluate complex mathematical expression. Still in pre-pre-pre-alpha stage
+A Code to evaluate any mathematical expression. WIP forever
